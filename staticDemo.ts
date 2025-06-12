@@ -27,7 +27,7 @@ export class BankAccount{
         return this.accountBalance;
     }
     withdraw(withamount:number):number{
-        // 0 balance allowed
+       
         if(this.accountBalance<withamount)
             console.log("can not withdraw");
         else
