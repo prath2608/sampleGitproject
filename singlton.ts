@@ -29,6 +29,6 @@ console.log(company3==company2);
 console.log(company1);
 console.log(company2);
 company1.companyName="SC";
-
+console.log(company2);
 
 
