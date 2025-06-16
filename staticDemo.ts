@@ -50,4 +50,5 @@ console.log(account3);
 console.log(account4);
 console.log(account5);
 console.log(account6);
+console.log(account6);
 
